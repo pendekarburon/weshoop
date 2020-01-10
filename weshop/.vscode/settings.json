@@ -1,0 +1,14 @@
+//"[go]": {
+//    "editor.formatOnSave": true,
+//   "editor.formatOnType": true
+//}
+{
+    "go.lintTool": "gometalinter",
+    "git.confirmSync": false,
+    "extensions.ignoreRecommendations": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "git.autofetch": true,
+    "[go]": {
+        "editor.formatOnSave": true
+    }
+}
